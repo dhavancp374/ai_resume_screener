@@ -1,0 +1,7 @@
+flask
+flask-cors
+openai
+PyPDF2
+numpy
+scikit-learn
+python-dotenv
